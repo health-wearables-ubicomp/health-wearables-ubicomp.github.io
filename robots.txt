@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: health-wearables-ubicomp.github.io/al-folio/sitemap.xml
+Sitemap: health-wearables-ubicomp.github.io/sitemap.xml
