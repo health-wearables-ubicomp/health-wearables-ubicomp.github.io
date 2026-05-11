@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /workshop/
-title: Workshop Details
+title: Workshop
 nav: true
 nav_order: 5
 ---

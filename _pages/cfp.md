@@ -1,11 +1,11 @@
-***
+---
 layout: page
 permalink: /cfp/
 title: Call for Papers
 nav: true
 nav_order: 2
-***
-  
+---
+
 We invite submissions by the community from those working on or with physical wearable devices for health and wellness related purposes. You may submit any of these  contributions for consideration.
 
 ### Submission Types
