@@ -2,7 +2,6 @@
 layout: page
 permalink: /organizers/
 title: Organizers
-description: Workshop Organizers
 nav: true
 nav_order: 4
 ---
