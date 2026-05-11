@@ -6,14 +6,6 @@ description: Call for Papers
 nav: true
 nav_order: 2
 ---
-
-<!-- _pages/publications.md -->
-
-<!-- Bibsearch Feature -->
-
-{% include bib_search.liquid %}
-
-<div class="publications">
   
 We invite submissions by the community from those working on
 or with physical wearable devices for health and wellness related
@@ -36,7 +28,7 @@ during the demo session. Up to a 4 page submission including
 diagrams and reference
 
 The workshop will be open to any and all attendees.
-Some Topics of Interest (Not extensive)
+###Some Topics of Interest (Not extensive)
 •Advances in wearable sensing (novel applications of existing
 sensors, new sensing modalities, new physical sensors)
 •Physical AI Systems utilizing wearable health data
@@ -54,6 +46,3 @@ and architectures
 •Cost effective solutions for resource constrained environ-
 ments
 
-
-
-</div>
