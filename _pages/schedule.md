@@ -11,9 +11,15 @@ nav_order: 3
 ## Tentative Schedule
 
 ### Introduction
+
 ### Keynote Speaker - TBD
+
 ### Paper Presentations
+
 ### Break
+
 ### Demos and Posters
+
 ### Breakout Discussions
+
 ### Closing Remarks
