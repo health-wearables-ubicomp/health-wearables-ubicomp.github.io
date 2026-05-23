@@ -51,6 +51,7 @@ Both steps are required before pushing:
 ### url/baseurl Relationship
 
 These two must stay in sync — broken together means CSS/JS won't load:
+
 - `url: health-wearables-ubicomp.github.io`
 - `baseurl:` (empty — this is a personal/org site, not a project subpath)
 
