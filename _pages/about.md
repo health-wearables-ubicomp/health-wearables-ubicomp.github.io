@@ -17,5 +17,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-
-Write your biography here.
+Wearable and ubiquitous computing has facilitated the widespread aggregation and analysis of health data for individuals. The growing availability of health information enables the use of artificial intelligence to process, interpret, and act on the data. While companies and researchers continue to explore new hardware options for wearables like watches, rings, necklaces, and even footwear research, there will be more opportunities to explore how AI can be embedded into wearable hardware. In this workshop, we aim to reframe the conversation around ”Physical AI” beyond robotics to include wearable devices that can aggregate, analyze, and act on physiological users health data. Devices designed to capture biomarkers and other signals used in inferring a person’s health are becoming more and more common and we propose this workshop as a way to discuss the current landscape, how AI will influence research, and challenges we see ahead. There have been no recent review papers describing building of health wearable devices and Ubicomp will be a good venue to bring the research community together for a more updated group discussion. This is especially important as this space changes very quickly with new sensors and AI architectures coming out yearly.
