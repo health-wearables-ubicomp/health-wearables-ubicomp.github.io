@@ -33,8 +33,8 @@ In this Ubicomp '26 workshop, we aim to reframe the conversation around ”Physi
 
   .conference-inline-image {
     display: block;
-    width: 85%;
-    max-width: 580px;
+    width: 95%;
+    max-width: 760px;
     height: auto;
     margin: 0 auto;
     border-radius: 18px;
