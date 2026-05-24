@@ -2,7 +2,7 @@
 layout: page
 permalink: /workshop/
 title: Workshop
-nav: true
+nav: false
 nav_order: 5
 ---
 
