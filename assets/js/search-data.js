@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-home",
-    title: "Home",
+    id: "nav-health-centric-wearable-devices-in-the-age-of-physical-ai",
+    title: "Health Centric Wearable Devices in the Age of Physical AI",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
