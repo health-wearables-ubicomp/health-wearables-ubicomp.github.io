@@ -17,7 +17,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-
 <p class="home-hero-image">
   <img src="/assets/img/wearable_health.png" alt="Conference visual" class="conference-inline-image">
 </p>
