@@ -14,7 +14,7 @@ We invite submissions by the community from those working on or with physical we
 - A Lessons Learned Report describing an experience or challenge while working on or deploying health related wearable devices. This can include development or deployments of personal health devices, clinical devices, ambulatory studies, etc. You will be able to present your work during the talks session. Up to a 4 page submission not including references.
 - Posters describing ongoing work or early prototypes. The work can be presented during the talks session and displayed during the demo session. Up to a 4 page submission not including references.
 
-### Some Topics of Interest (Not extensive)
+### Some Topics of Interest (Not Extensive)
 
 - Advances in wearable sensing (novel applications of existing sensors, new sensing modalities, new physical sensors)
 - Novel wearable form factors
@@ -31,15 +31,17 @@ We invite submissions by the community from those working on or with physical we
 
 ### Submission Guidelines
 
-All submissions should use the Standard ACM Two Column Format, templates can be found on the ACM Website. Details for the submission portal will be placed here shortly (likely through HotCRP). If you have any questions or concerns, you can send an email to healthcentricwearables[at]gmail.com with the subject line [Question]. You may also email the organizers directly at atching[at]cs.washington.edu.
+All submissions should use the Standard ACM Two Column Format, templates can be found on the ACM Website. Details for the submission portal will be placed here shortly (likely through PCS or HotCRP). If you have any questions or concerns, you can send an email to healthcentricwearables[at]gmail.com with the subject line [Question]. You may also email the organizers directly at atching[at]cs.washington.edu.
 
 ### Review Process
 
-Each submission will undergo single blind review by at least two of the organizers.
+Each submission will undergo single blind review, please include all names and affiliations of the authors.
+
+The submitted papers will be reviewed for relevance, novelty, technical soundness, and overall quality of writing. We highly encourage papers that involve physical hardware that can also be shown during the workshop.
 
 ### Important Dates:
 
 - Submission Portal Open: July 1, 2026
 - Submission Deadline: July 17, 2026 AoE
-- Notification of Acceptance: August 14, 2026
+- Notification of Acceptance: August 7, 2026
 - Workshop Date: TBD October 11-12, 2026

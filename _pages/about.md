@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Home
+title: Health Centric Wearable Devices in the Age of Physical AI
 permalink: /
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
