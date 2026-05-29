@@ -16,17 +16,16 @@ We invite submissions by the community from those working on or with physical we
 
 ### Some Topics of Interest (Not Extensive)
 
-- Advances in wearable sensing (novel applications of existing sensors, new sensing modalities, new physical sensors)
+- Advances in wearable sensing for capturing biomarkers (novel applications of existing sensors, new sensing modalities, new physical sensors)
 - Novel wearable form factors
 - Physical AI Systems utilizing wearable health data
 - Reports of sensing challenges for health diagnosis
 - Reports of challenges and lessons learned when developing or deploying clinical wearable systems or ambulatory studies
-- Privacy preserving solutions (on device AI, more optimized sensing to reduce models, etc)
+- Privacy preserving solutions, insights, architectures (on device AI, more optimized sensing to reduce models, etc)
 - Embedded AI for health inference or data processing
 - Devices that act on the user or provide therapy (e.g. Insulin Patches, Hearing Aids, Snoring Mitigation Pillows, etc)
 - Low power architectures (circuits and algorithms)
 - Devices built for clinical deployment or data collections (e.g. Sensing in clinical settings, robust designs, etc)
-- Health sensor reading privacy protection schemes, insights, and architectures
 - Cost effective solutions for resource constrained environments
 
 ### Submission Guidelines
