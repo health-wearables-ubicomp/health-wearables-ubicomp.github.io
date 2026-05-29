@@ -42,6 +42,7 @@ The submitted papers will be reviewed for relevance, novelty, technical soundnes
 ### Important Dates:
 
 - Submission Portal Open: July 1, 2026
-- Submission Deadline: July 17, 2026 AoE
-- Notification of Acceptance: August 7, 2026
+- Submission Deadline: July 8, 2026 AoE
+- Notification of Acceptance: July 20, 2026
+- Camera Ready Deadline: July 30, 2026
 - Workshop Date: TBD October 11-12, 2026
