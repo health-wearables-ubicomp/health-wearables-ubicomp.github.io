@@ -30,7 +30,9 @@ We invite submissions by the community from those working on or with physical we
 
 ### Submission Guidelines
 
-All submissions should use the Standard ACM Two Column Format, templates can be found on the ACM Website. Details for the submission portal will be placed here shortly (likely through PCS or HotCRP). If you have any questions or concerns, you can send an email to healthcentricwearables[at]gmail.com with the subject line [Question]. You may also email the organizers directly at atching[at]cs.washington.edu.
+All submissions should use the Standard ACM Two Column Format, templates can be found on the ACM Website. The submission portal will be on [PCS](https://new.precisionconference.com/submissions). You can submit under SIGCHI > Ubicomp/ISWC Workshop 2026 > Health Centric Wearable Devices.
+
+If you have any questions or concerns, you can send an email to healthcentricwearables[at]gmail.com with the subject line [Question]. You may also email the organizers directly at atching[at]cs.washington.edu.
 
 ### Review Process
 
@@ -40,7 +42,7 @@ The submitted papers will be reviewed for relevance, novelty, technical soundnes
 
 ### Important Dates:
 
-- Submission Portal Open: July 1, 2026
+- Submission Portal Open: ~~July 1, 2026~~ Open Now
 - Submission Deadline: July 8, 2026 AoE
 - Notification of Acceptance: July 20, 2026
 - Camera Ready Deadline: July 30, 2026
