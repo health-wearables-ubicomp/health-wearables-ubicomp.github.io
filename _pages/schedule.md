@@ -44,18 +44,18 @@ The workshop will be held Monday Oct 12 in Room 5C.
 
 ## Keynote
 
-### Towards Robust Physiological Sensing on Ubiquitous Devices
+### _Towards Robust Physiological Sensing on Ubiquitous Devices_
 
-<div class="row mt-3">
-<div class="col-sm-4">
-{% include figure.liquid loading="eager" path="assets/img/keynote_speaker.jpg" class="img-fluid rounded z-depth-1" %}
+<!-- Photo floats left; all text below wraps around it -->
+<div style="float: left; width: 30%; max-width: 220px; margin: 0.3rem 1.5rem 1rem 0;">
+{% include figure.liquid loading="eager" path="assets/img/yuntao.jpg" class="img-fluid rounded z-depth-1" %}
 </div>
 
-<div class="col-sm-8">
-<p><strong>Yuntao Wang</strong><br><em>_Research Associate Professor, Department of Computer Science and Technology at Tsinghua University_</em></p>
-<p><strong>Bio.</strong> Yuntao Wang is a research associate professor in the Department of Computer Science and Technology at Tsinghua University. His research centers on physiobehavioral computing and intelligent interaction for mobile and wearable systems. His work focuses on (1) developing robust, efficient sensing that performs reliably on mainstream devices, (2) extracting spatiotemporal patterns from multimodal signals to infer interaction intent by leveraging natural behavioral correlations, and (3) designing edge-efficient interfaces that deliver high performance on mobile and wearable platforms. He has published 100+ papers, received 10 international conference awards, and holds 30+ granted patents. His contributions have been recognized with honors including the Wu Wenjun AI Outstanding Youth Award (2024), the CAST Young Elite Scientists Sponsorship Program (2022), the Qinghai High-Level Innovation & Entrepreneurship Leading Talent (2024), and the First Prize of the China Electronics Institute Science & Technology Award (2019).</p>
-</div>
+**Yuntao Wang**<br>
 
-</div>
+**Bio.** Yuntao Wang is a research associate professor in the Department of Computer Science and Technology at Tsinghua University. His research centers on physiobehavioral computing and intelligent interaction for mobile and wearable systems. His work focuses on (1) developing robust, efficient sensing that performs reliably on mainstream devices, (2) extracting spatiotemporal patterns from multimodal signals to infer interaction intent by leveraging natural behavioral correlations, and (3) designing edge-efficient interfaces that deliver high performance on mobile and wearable platforms. He has published 100+ papers, received 10 international conference awards, and holds 30+ granted patents. His contributions have been recognized with honors including the Wu Wenjun AI Outstanding Youth Award (2024), the CAST Young Elite Scientists Sponsorship Program (2022), the Qinghai High-Level Innovation & Entrepreneurship Leading Talent (2024), and the First Prize of the China Electronics Institute Science & Technology Award (2019).
 
 **Abstract.** This talk presents our recent work on physiological sensing using ubiquitous devices, including smartphones and wearables. We explore how everyday devices can support efficient, continuous, and low-burden health monitoring beyond traditional medical settings. By leveraging widely available hardware and new sensing algorithms, our research aims to make physiological monitoring more accessible, scalable, and practical for real-world use. The talk will highlight new technical approaches and design insights at the intersection of human-computer interaction, ubiquitous computing, and health.
+
+
+<div style="clear: both;"></div>
