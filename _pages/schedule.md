@@ -8,8 +8,6 @@ nav_order: 3
 
 The workshop will be held Monday Oct 12 in Room 5C.
 
-## Schedule
-
 <table class="table table-sm table-borderless">
   <thead>
     <tr><th style="width: 25%;">Time</th><th>Activity</th></tr>
